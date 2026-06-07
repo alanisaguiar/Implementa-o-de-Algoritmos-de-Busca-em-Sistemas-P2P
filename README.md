@@ -42,11 +42,11 @@ O simulador foi testado em duas topologias de tamanhos diferentes, ambas válida
 
 **Rede pequena (6 nós) — `rede_teste.json`:**
 
-![Topologia 6 nós](imgs/topologia_6nos.png)
+![Topologia 6 nós](trabalho-7-nabor/Simulador-p2p-distribuido-main/imgs/topologia_6nos.png)
 
 **Rede grande (12 nós) — `rede_teste2.json`:**
 
-![Topologia 12 nós](imgs/topologia_12nos.png)
+![Topologia 12 nós](trabalho-7-nabor/Simulador-p2p-distribuido-main/imgs/topologia_12nos.png)
 
 ## Como Rodar
 
@@ -92,4 +92,4 @@ Principais observações:
   por um mesmo recurso, o número de mensagens cai para o tamanho do caminho mais
   curto até o recurso (por exemplo, de 11 para 6 mensagens na rede grande).
 
-![Benchmark comparativo](imgs/resultado_benchmark.png)
+![Benchmark comparativo](trabalho-7-nabor/Simulador-p2p-distribuido-main/imgs/resultado_benchmark.png)
